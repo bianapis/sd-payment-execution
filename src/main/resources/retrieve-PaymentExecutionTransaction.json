@@ -1,0 +1,14 @@
+{
+  "date" : "2018-09-06",
+  "paymentExecutionTransaction" : "PET123",
+  "intermediaryAccountReference" : "IAR123545",
+  "dateType" : "booking",
+  "payerAccountReference" : "PA8567",
+  "paymentTransactionRequestReference" : "PTRR4343",
+  "currency" : "USD",
+  "washAccountReference" : "WAR5677",
+  "payeeAccountReference" : "PAR12389",
+  "paymenTransactionReference" : "PRR123",
+  "paymentOrderReference" : "POR789",
+  "paymentMechanism" : "SWIFT"
+}

@@ -1,0 +1,9 @@
+{
+  "correspondentServiceAccessSchedule" : "2018/09-2019/08",
+  "paymentExecutionTransaction" : "PET5674",
+  "correspondentServiceSessionReference" : "CSSR5678",
+  "paymentTransactionMechanismReference" : "PTMR345",
+  "paymentTransactionRequestReference" : "PTRR5678",
+  "achAccessServiceSessionReference" : "ACHR4567",
+  "achAccessSchedule" : "2018/09-2019/08"
+}

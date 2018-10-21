@@ -1,0 +1,18 @@
+{
+  "date" : "2018-08-28",
+  "payerProductInstanceReference" : "PARR6400",
+  "amount" : "$5000",
+  "payeeReference" : "PAEE5007",
+  "payeeProductInstanceReference" : "PAIR7456",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "paymentTransactionRequestReference" : "PTRR3743",
+  "paymentTransactionReportingReference" : "PTRR4543",
+  "paymentTransactionInitiatorReference" : "PTIR2320",
+  "dateType" : "booking",
+  "payerReference" : "PYRE5345",
+  "paymentTransactionStatus" : "Success",
+  "currency" : "USD",
+  "paymentTransaction" : "PYTR5468",
+  "paymentMechanism" : "SWIFT"
+}

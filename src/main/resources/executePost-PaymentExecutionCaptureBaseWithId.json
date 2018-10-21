@@ -1,0 +1,15 @@
+{
+  "date" : "2018-09-05",
+  "payerProductInstanceReference" : "PPIR5322",
+  "amount" : "$5000",
+  "payeeReference" : "PER5547",
+  "payeeProductInstanceReference" : "PPIR2457",
+  "payerBankReference" : "PYBR5463",
+  "payeeBankReference" : "PBR6879",
+  "paymentTransactionRequestReference" : "PTRR8767",
+  "paymentTransactionInitiatorReference" : "PTIR3246",
+  "dateType" : "booking",
+  "payerReference" : "PYRF4543",
+  "currency" : "USD",
+  "paymentMechanism" : "SWIFT"
+}

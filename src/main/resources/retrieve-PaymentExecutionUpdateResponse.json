@@ -1,0 +1,19 @@
+{
+  "date" : "2018-08-28",
+  "amount" : "$5000",
+  "payeeReference" : "PAEE5007",
+  "payeeProductInstanceReference" : "PAIR7456",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "paymentTransactionRequestReference" : "PTRR345",
+  "paymentTransactionUpdateReference" : "PTUR5435",
+  "paymentTransactionUpdateResult" : "Success",
+  "paymentExecutionTransaction" : "Authorizaton",
+  "paymentTransactionInitiatorReference" : "PTIR2320",
+  "dateType" : "Order",
+  "payerReference" : "PYRE5345",
+  "currency" : "USD",
+  "paymentTransaction" : "CreditTransfer",
+  "paymentTransactionUpdateDescription" : "TransactionDescription",
+  "paymentMechanism" : "NEFT"
+}
